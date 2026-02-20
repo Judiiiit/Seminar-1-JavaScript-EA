@@ -1,5 +1,8 @@
 # EA-JS
 
+## Documentación
+Se ha usado los conocimientos adquiridos en clase y en los ejemplos proporcionado en el código del repo.
+
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes programas en tu sistema:
